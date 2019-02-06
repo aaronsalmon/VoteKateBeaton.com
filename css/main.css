@@ -37,6 +37,12 @@ a:hover,
 a:focus {
   color: #19901d;
 }
+a.link-light,
+a.link-light:hover,
+a.link-light:focus {
+  color: #fff;
+  margin-left: 15px;
+}
 blockquote {
   color: #808080;
   font-style: italic;

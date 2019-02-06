@@ -5,26 +5,53 @@ subtitle: I am eager to continue serving Eau Claire, but I need your help!
 
 ---
 
-### Mailing List Sign-up
 
-Please fill out the form below to volunteer and get involved.
-
-<button onclick="window.location.href='http://eepurl.com/gaIbqP'" class="btn btn-primary btn-lg">Mailing list sign up!</button>
+I chose to make Eau Claire my home because we are a community that shows up for each other. And while Eau Claire has seen a lot of economic success, not everyone has benefited equally from the changes in our city. This campaign is about showing up for everyone.
 
 
-<p class="text-center"><img src="/img/volunteer.jpg"></p>
+
+
+### Sign-up
+
+Join this campaign to make a better Eau Claire for everyone. 
+
+<button onclick="window.location.href='https://goo.gl/forms/1BeG5Cq3Kes95LbE3'" class="btn btn-primary btn-lg">Sign Up!</button> 
+
+
+<p class="text-center"><img src="/img/volunteer2.jpg"></p>
 
 ### Volunteer
 
-Volunteers are instrumental in the success of political campaigns, large or small. Please help to re-elect me to the Eau Claire City Council by volunteering to knock on doors and talking to your neighbors about the campaign, by making phone calls to get out the vote, by delivering campaign literature and yard signs, and more! You’re help is so appreciated. <a href="https://goo.gl/forms/46KhvDHMXPYj8Kts2"><b style="text-decoration: underline;">Sign up to volunteer and get involved</b></a>
+Volunteers are instrumental in the success of political campaigns, large or small. Please help to re-elect me to the Eau Claire City Council by volunteering
 
+- Host a party
+- Write a letter to the editor
+- Canvass door to door
+- Phonebank
+- Yard sign
+- Stuff envelopes
+- Enter data
+- Share posts on social media
+
+<button onclick="window.location.href='https://goo.gl/forms/IFKV9sRwFZbl0v6C3'" class="btn btn-primary btn-lg">Endorse Kate</button> <button onclick="window.location.href='http://crowdpac.com/c/katebeaton'" class="btn btn-primary btn-lg">Donate</button>
+
+<p class="text-center"><img src="/img/volunteer3.jpg"></p>
+
+
+### Be A Voter
+
+Will you be a voter on February 19th and April 2nd? Visit <a href="myvote.wi.gov"><b style="text-decoration: underline;">myvote.wi.gov</b></a> for information on how and where to vote, how to get registered, what will be on your ballot, and more. Or, email me with any questions you may have. 
+
+**Important things to know before you head to the polls:**
+
+- Anyone living with in Eau Claire city limits can vote for at large candidates.
+- Due to a high number of candidates this spring, there will be a primary on February 19th.
+- The general election is on April 2nd, 2019.
+
+Find more info here - <a href="myvote.wi.gov"><b style="text-decoration: underline;">myvote.wi.gov</b></a>
 
 ### Contact me
 
 - <span class="text-muted">email:</span> <a href="mailto:beatonforcitycouncil@gmail.com">beatonforcitycouncil@gmail.com</a>
 - <span class="text-muted">cell:</span> 715-252-2544
 
-
-### Yard Signs
-
-Yard signs help to get my name into the community! Want a yard sign? <a href="https://goo.gl/forms/46KhvDHMXPYj8Kts2"><b style="text-decoration: underline;">Fill out this form</b></a> and indicate you would like a yard sign and one will be delivered to you. Thank you!

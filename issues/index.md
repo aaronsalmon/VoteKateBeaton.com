@@ -6,47 +6,48 @@ subtitle: Priorities and ideas
 
 ### I <3 Eau Claire
 
-<img src="/img/Eau_Claire_outline.png" class="pull-right img-right">I love Eau Claire. I fell in love with Eau Claire when I arrived to attend the University of Wisconsin-Eau Claire and I can’t imagine calling any other place home. Not only does Eau Claire have so much going for it including Phoenix Park, the historic Downtown area, and the rich music scene, there are so many more amazing things to come including the Confluence Project and the year round public market. 
+<img src="/img/Eau_Claire_outline.png" class="pull-right img-right">I believe in an Eau Claire where everyone can thrive. We can achieve that together. Thank you for taking the time to get to know me and my ideas. If you have any ideas you’d like to share, I’d love to hear them!
 
-As great as Eau Claire is, I want to help make it even better. There are some things that we are doing as a community that I think we could do better and there are some serious issues we need to start to address. 
-
-Please see my list of issues and ideas below. 
+– Kate
 
 
-#### Public transportation
+#### Affordable housing
 
-Rather than a society in which people of low income have to scrape together enough money to buy a car, I want to live in a city where all people of all income brackets choose public transit as the most practical mode of transportation. Public transit strengthens our society and our environment, and saves money. It makes it possible for our low-income neighbors to make it to work, school, the grocery store, etc. while also reducing our need for fossil fuels, slowing climate change. I plan to support Eau Claire Transit in any way I can. Click <a href="http://ecbus.org">here</a> for more information on the Eau Claire transit system.
+Right now, there are two Eau Claire's--one that that is reveling in our city’s economic and cultural rebirth and one that struggles to make ends meet. **More than 46% of our neighbors and friends in Eau Claire struggle to pay for life’s most basic staples like food and housing, higher than the state average. This is fundamentally wrong and deeply concerning.** That’s why I support acting President Andrew Werthmann’s Eau Claire For All Initiative to start to tackle affordable housing and poverty in our community head on. With builders, landlords, affordable housing advocates, people experiencing housing insecurity, and more all at the table, the city is currently studying ways to restructure development and zoning policies to make it easier to develop affordable housing in our city. 
 
-#### Active transportation
+I’m proud our Council is taking bold action because the folks struggling to get by can’t keep waiting. That’s why I helped fund 2 new Library positions: one to help residents experiencing homelessness get access to the services they need, and the other to help improve literacy for at-risk youth. I also launched the Market Match program at the Eau Claire Downtown Farmers Market which makes fresh, healthy, locally grown foods more affordable to low income families. I also support creating an Affordable Housing Advisory Committee with diverse representation to ensure that an affordable housing lense is sustained in everything we do as a city moving forward. 
 
-As a fair-weather bicyclist, I am eager to improve Eau Claire’s bicycle infrastructure so that it is safer and more enjoyable for Eau Claire residents and visitors to get where they need to go or to just enjoy the fresh air and some exercise. I would like to see complete streets in Eau Claire, so that all people -- pedestrians, bicyclists, and drivers -- have access to the local businesses they need and feel safe getting there. 
+#### Sustainability
 
-#### Food access
+As flooding threatens our city of Clear Water, we’re seeing insect borne diseases on the rise. Unseasonably high temperatures are threatening the way we live and work. Simply put, climate change is among the greatest threats to our city, nation, and planet. **Future generations deserve to inherit a planet that is clean and livable so they can enjoy the clean air, water, and land we have.** In 2018 I authored Eau Claire’s goal to pursue 100% renewable energy by 2050 that came with a  planning process to make fiscally responsible decisions to achieve that goal. As a state-wide advocate for clean water policy and in serving on the Waterways and Parks Commission, I have pushed for efforts to protect our drinking water and to clean up our rivers and streams so that we all can trust the water we enjoy, whether if it’s coming out of our taps, or if we’re floating in it down the Chippewa. I also helped to ensure our City invested over $700,000 to replace dangerous lead pipes that poison our children, and threaten their bright futures. 
 
-Food insecurity is a prevailing problem in Eau Claire and the United States as a whole. With 1 in 5 children in the Eau Claire Area School District food insecure, we have a lot to work on. I believe it is the responsibility of the city, county, state, and national government as well as the individual, private sector, and non-profit sector to ensure that all of our neighbors have enough food to feed their families. As a City Councilwoman, I plan to work on more initiatives like Market Match, a city-sponsored program which doubles the purchasing power for FoodShare recipients at the Eau Claire Downtown Farmers Market <a href="http://ecmarketmatch.wordpress.com">(Learn more about Market Match)</a>. It is important to me that we are not making just any food available for our low-income neighbors, but the best food--food that is fresh, healthy, and locally grown. 
+
+#### Open Democracy
+
+Our democracy works when everyone can participate. **In a time when our state and federal government seek to disenfranchise their voters and close the government to the citizens it belongs to, our community should do everything we can to protect our democracy locally.** I have been working to improve access to voting in Eau Claire to expand early voting opportunities including a longer early voting period, night and weekend hours, and additional additional early voting locations.
+
+
+#### Engaged Community
+
+In 2014, the City of Eau Claire won the All American City Award, the country’s most prestigious award given to cities practicing extraordinary civic engagement. **I’ve strived to ensure that Eau Claire lives up to our title of “All America City”** by pushing for inclusive and common sense engagement including authoring a resolution to create a working committee to find solutions to the Public Good Order ordinance in 2018 and strongly supporting a proposal to open a public comment period at city council meetings so that the people of Eau Claire can more easily communicate with their elected representatives. I also support dedicating one member of city staff to work specifically on community engagement, particularly with neighborhood associations as well as marginalized communities who often are disenfranchised in public engagement processes. 
+
+
 
 #### Living wage
 
-I have been an advocate for a living wage on the steering committee for <a href="https://www.facebook.com/15nownorthwestwisconsin/">15 Now Northwest Wisconsin</a>, a local group that has recently joined the national movement to increase the minimum wage to $15/hour. A full time worker should never be living below the poverty line. As a City Councilwoman I will continue to advocate on a national level for a living wage. But I truly believe that a national movement starts right here at home. As a tax-paying citizen of this city, I want my city employees to be paid a living wage. And as a City Councilwoman I would support a living wage ordinance that would ensure all full-time, part-time, and contracted employees of the city are paid a fair, livable wage. 
+Anyone working 40 hours per week should never have to choose between paying their rent or buying groceries. But unfortunately this is happening across our community--and our country--every day. **Eau Claire families need family-supporting wages. Eau Claire businesses need their patronage.** That’s why I have been a strong advocate for living wages for many years and will continue to fight poverty wages by ensuring our city is paying our employees fairly and working with their unions, advocating for a repeal of state laws preempting municipalities from passing local Living Wage Ordinances, and will support the development high wage jobs in our city. 
 
 
-#### Small business
+#### Public Transportation
 
-I just can’t get enough of Eau Claire’s small, locally owned businesses. Not only do they bring a unique culture to our city, they enhance our local economy. According to <a href="http://www.forbes.com/sites/ashoka/2013/04/03/investing-in-local-food-businesses-for-community-health-and-wealth/#5179f8fb6114">Forbes</a>, more than a dozen studies have shown that every dollar spent at a locally owned business generates two-to-four times the economic impact of a dollar spent on an equivalent non-local business. The Eau Claire City Council has done a phenomenal job supporting our local downtown businesses, and when I’m elected as a City Councilwoman, I will back efforts to keep the momentum going.
+Public transportation lies at the very foundation of our community. It is one of the most important resources our community has. **An economic issue, social issue, and environmental issue, public transit takes on our communities biggest struggles head on.** As a city, we must strengthen and expand our transit system so that all our neighbors have a viable way to ge to their work, school, or doctor’s appointment and so that our city can reduce fossil fuel emissions and our contribution to climate change. I have fought efforts to raise rider rates and have supported a new transit center which will expand the usability and the capacity of our system. I support expanded transit routes and expanded night and weekend hours. I’ll continue to lead with a vision of a stronger system where people in our city can get where they need to go, whether they are using the system to save fossil fuels, because they can’t afford other transportation options, or just for fun!
 
-#### Historic neighborhoods
+#### Complete Streets
 
-Eau Claire’s historic neighborhoods are a real treasure to our community. Not only do they preserve Eau Claire’s heritage, they provide housing for a large diversity of Eau Claire residents, including young professionals, families, and UW-Eau Claire students. I am interested in preserving the rich diversity of our historic neighborhoods by supporting actions by the city that foster a better relationship between renters, landlords, and homeowners. One way this could be accomplished is by simultaneously addressing the culture of binge drinking among students and young renters and increasing expectation and accountability of landlords. 
+**I am invested in improving Eau Claire’s bicycle and pedestrian infrastructure so that it is safer and more enjoyable for people in Eau Claire to get where they need to go or to just enjoy the fresh air and some exercise.** Complete streets is an intentional design of our city infrastructure with drivers, pedestrians, and bicyclists in mind. I support complete streets because they encourage healthier lifestyles, alleviate parking and traffic congestion, and make our community safer for everyone including children, folks with disabilities, and older adults.
 
-#### Parks and health
+#### Equity
 
-Urban green space does so much good for our physical, mental, and emotional health. Parks offer space to exercise, appreciate nature, relax, participate in community events, and spend quality time with your family and friends. A stronger parks system builds a stronger community. That’s why as a City Councilwoman, I would support initiatives to expand our parks and trails system in Eau Claire.
+Our diversity is what makes our city strongest. While we have much further to go as a community, I have championed policy to celebrate diversity, to honor our history, and to start to change the culture here in Eau Claire into one that is more accepting of all our neighbors, one by one. In 2018, I authored the Conversion Therapy Ban Ordinance which bans childhood conversion therapy in our city. A practice that is denounced by every mainstream health organization, conversion therapy uses physical and emotional abuse and torture in the false promise to change a child’s sexual orientation. I’m grateful that our children will now be safer from abuse and will grow up in Eau Claire knowing it’s okay to be themselves and that they are loved just as they are. 
 
-<hr>
-
-### Meet the Candidate Interview
-
-I had the opportunity to talk with Chippewa Valley Community Television about my candidacy for Eau Claire City Council!  You can <a target="_blank" href="http://vp.telvue.com/player?id=T01614&video=267665">see the interview</a> to hear more about my views on local poverty, food insecurity, public transportation, and more! Thanks to Community TV for televising and helping the citizens of Eau Claire learn about their candidates!
-
-
-You can also find the video on <a href="http://vp.telvue.com/player?id=T01614&video=267665">the CTV website</a>.
+I also authored a resolution to recognize Indigenous Peoples’ Day to help Eau Claire learn from our country’s history of genocide so that we may lead our communities to a more loving future. Much more should be can be done in our city to keep this work going and I hope to have that opportunity in the next 3 years. 
